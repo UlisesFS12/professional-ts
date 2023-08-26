@@ -8,6 +8,7 @@
     "noEmit": true,
     "outDir": "dist",
     "declaration": true,
+    "noImplicitAny": false,
     "jsx": "react",
     "moduleResolution": "Node"
   },
